@@ -1,2 +1,1 @@
-this is the text file
-abc
+this is the text file..
